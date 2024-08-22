@@ -1,2 +1,3 @@
 # solarpoweredwifiweatherstation
 Solar powered weather station basically measures the parameters like temperature, humidity, wind speed, rainfall and other meteorological parameters without requiring any external power source.
+A solar-powered wireless local area network weather station is an advanced meteorological monitoring system designed to harness star energy for world power and transmit endure data wirelessly to a remote location. These stations integrate cutting-edge weather sensors with a solar panel, rechargeable battery, and wireless undefined technology to provide continuous and reliable weather entropy without relying on traditional power sources.
